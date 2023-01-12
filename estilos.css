@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(img/artificial-intelligence-3706562.jpg);
+    width: 1350px;
+    height: 960px;
+}
+#principal{
+    background-color: black;
+    height: 100px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+.segundo{
+     background-color: black;
+     position: absolute;
+     height: 50px;
+    width: 300px;
+   left: 250px;
+   top: 25px;
+   color: white;
+}
+.tercero{
+    position: absolute;
+    height: 50px;
+    width: 80px;
+   left: 55px;
+   top: 25px;
+}
+#botonera{
+     position: absolute;
+     height: 50px;
+    width: 120px;
+   left: 600px;
+   top: 37px;
+}
+
+#UNO{ 
+    background-color: bisque;
+    height: 300px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#TERCERO{
+    background-color: brown;
+    height: 300px; 
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+footer{
+    background-color: yellowgreen;
+    height: 300px; 
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.segundo h1{
+    font-size: 25px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.tercero img{
+    width: 60px;
+    height: 60px;
+    padding-left: 1px;
+    padding-bottom: 250px;
+}
+#botonera ul li a{
+    padding-top: 1px;
+    padding-left: 20px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    border: 1px solid salmon;
+    border-radius: 10px;
+    top: 15px;
+    color: white<s;
+}
+#botonera ul li a:hover{
+      color: salmon;
+      background-color: white;
+}
